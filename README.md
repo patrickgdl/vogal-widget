@@ -1,3 +1,5 @@
+## Thanks to [Ask Clippy](https://github.com/askclippyai/widget/) widget. This is a fork of their widget.
+
 # Um assistente de IA para os documentos da sua empresa
 
 Este repositório contém a fonte para o pacote `Vogal`, que carrega o widget em sites de documentação suportados.
