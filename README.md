@@ -4,15 +4,15 @@
 
 Este repositório contém a fonte para o pacote `Vogal`, que carrega o widget em sites de documentação suportados.
 
-## Veja uma demonstração
+<!-- ## Veja uma demonstração
 
-vídeo-exemplo.mp4
+video-exemplo.mp4
 
 > **Nota** Você pode ver ao vivo em [Vogal](https://usevogal.com).
 
 ## Quer em seus documentos?
 
-Estamos atualmente em beta privado. Se sua empresa gostaria de adicionar Vogal à sua documentação, [preencha o formulário beta](https://include-official.site) e entraremos em contato em breve!
+Estamos atualmente em beta privado. Se sua empresa gostaria de adicionar Vogal à sua documentação, [preencha o formulário beta](https://include-official.site) e entraremos em contato em breve! -->
 
 ## Como funciona
 
